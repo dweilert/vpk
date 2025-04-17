@@ -3,7 +3,6 @@
 # VpK created runtime directories
 cluster/*
 usage/*
-dist/*
 
 #Developer files
 testing/*
