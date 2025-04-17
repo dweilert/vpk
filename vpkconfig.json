@@ -4,8 +4,8 @@
         "statusSection": true,
         "redactSecrets": false,
         "reloadAction": true,
-        "lightTheme": true,
-        "clusterBackground": "Grey"
+        "lightTheme": false,
+        "clusterBackground": "Stars"
     },
     "snapshotDir": "/Users/bob/snaptest",
     "clusterFilters": {
@@ -17,7 +17,7 @@
         "clusterFilterControlP": true,
         "clusterFilterWorkload": false,
         "clusterFilterService": false,
-        "clusterFilterConfigStorage": false,
+        "clusterFilterConfigStorage": true,
         "clusterFilterAuthentication": false,
         "clusterFilterAuthorization": false,
         "clusterFilterPolicy": false,
@@ -28,8 +28,8 @@
         "clusterFilterRunning": true,
         "clusterFilterWarning": true,
         "clusterFilterFailed": true,
-        "clusterFilterSuccessful": true,
-        "clusterFilterDSPods": false,
+        "clusterFilterSuccessful": false,
+        "clusterFilterDSPods": true,
         "clusterFilterNodeMemory": false,
         "clusterFilterNodeCPU": false,
         "clusterFilterNodeStorage": false,

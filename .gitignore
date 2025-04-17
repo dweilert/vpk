@@ -3,6 +3,7 @@
 # VpK created runtime directories
 cluster/*
 usage/*
+dist/*
 
 #Developer files
 testing/*
@@ -38,5 +39,4 @@ public/docs/.DS_Store
 public/docs/docimages/.DS_Store
 public/images/.DS_Store
 results*
-
 
